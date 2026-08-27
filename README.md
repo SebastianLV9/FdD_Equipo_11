@@ -33,7 +33,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/Layme.jpeg" width="90"/> | **Sebastian Layme** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/Daniel.jpeg" width="90"/> | **Daniel Oliva** | Responsable de investigación |
+| <img src="/Recursos/Imágenes/Daniel.jpeg" width="90"/> | **Daniel Oliva** | Responsable de investigación | Gestión ambiental, desarrollo comunitario|
 | <img src="/Recursos/Imágenes/Jimena.png" width="90"/> | **Jimena Vega** | Diseñadora | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante2.jpg" width="90"/> | **Susan S Limascca** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/Marlon.png" width="90"/> | **Sarmiento Montalvo Marlon Steeven** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
