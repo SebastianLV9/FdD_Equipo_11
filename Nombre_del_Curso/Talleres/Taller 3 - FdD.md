@@ -4,9 +4,8 @@
 
 **CARRERA DE INGENIERÍA INFORMÁTICA \-  INDUSTRIAL**
 
-**![][image1]**
 
-**PROYECTO FINAL DE CURSO:**
+**TALLER 3 DEL CURSO:**
 
 **CURSO: FUNDAMENTOS DE DISEÑO**
 
@@ -22,7 +21,6 @@
 
 5\. Sebastian Eduardo Layme Vargas
 
-**DOCENTES:** 
 
 LIMA – PERÚ   
 2026
