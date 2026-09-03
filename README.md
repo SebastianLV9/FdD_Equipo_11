@@ -18,6 +18,9 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 12 – Producción y Consumo Responsables (Evita el desperdicio mediante la detección y el corte mecánico automático de fugas).
 - ODS 11 – Ciudades y Comunidades Sostenibles (Aporta resiliencia urbana frente a cortes y desabastecimiento hídrico en tanques/cisternas).
 
+## Problemática a resolver:
+En Lima y distintas zonas del Perú, el desabastecimiento hídrico obliga a las familias a depender de tanques elevados y cisternas. Sin embargo, los usuarios desconocen el nivel real de reserva disponible, no detectan a tiempo si el agua se encuentra contaminada o turbia, y sufren pérdidas masivas por fugas o filtraciones inadvertidas.
+
 ---
 
 ## 📸 Fotografía del Equipo  
