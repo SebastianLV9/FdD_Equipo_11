@@ -11,7 +11,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 Esperamos que se encuentre bien. A continuación, presentamos la propuesta formal de la idea de proyecto para el curso de Fundamentos del Diseño:
 
 ## Nombre del Proyecto
-**YAKU-ALERT (Sistema Robótico e Inteligente de Monitoreo, Control de Calidad y Prevención de Fugas de Agua)**
+**AQUA-ALERT (Sistema Robótico e Inteligente de Monitoreo, Control de Calidad y Prevención de Fugas de Agua)**
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):** 
 - El ODS Principal: ODS 6 – Agua Limpia y Saneamiento (Garantiza la gestión sostenible, la calidad y el monitoreo del recurso hídrico).
