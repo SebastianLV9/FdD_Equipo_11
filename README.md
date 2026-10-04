@@ -19,10 +19,35 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 11 – Ciudades y Comunidades Sostenibles (Aporta resiliencia urbana frente a cortes y desabastecimiento hídrico en tanques/cisternas).
 
 ## Problemática a resolver:
-En Lima y distintas zonas del Perú, el desabastecimiento hídrico obliga a las familias a depender de tanques elevados y cisternas. Sin embargo, los usuarios desconocen el nivel real de reserva disponible, no detectan a tiempo si el agua se encuentra contaminada o turbia, y sufren pérdidas masivas por fugas o filtraciones inadvertidas.
+Las fugas de agua que no son detectadas oportunamente pueden generar desperdicio del recurso hídrico y pérdidas económicas. El problema se vuelve especialmente relevante durante la noche, cuando los usuarios no se encuentran supervisando continuamente el consumo de agua.
+
+Una dificultad importante es que no todo flujo de agua representa una fuga. Por ejemplo, una persona puede utilizar el inodoro, lavarse las manos o ducharse durante la madrugada. Por ello, el sistema no debe limitarse a detectar flujo, sino analizar sus características para distinguir entre un consumo esperado y un comportamiento compatible con una fuga.
+
+AQUA-ALERT aborda esta problemática mediante la medición del flujo, el análisis de patrones de consumo, la estimación del volumen y la activación automática de alertas y corte de suministro cuando corresponde.
+
+## Propuesta de solución:
+El sistema se basa en cuatro funciones principales:
+
+1. Medir el flujo de agua mediante el sensor YF-S201.
+2. Analizar la duración, caudal y volumen de cada evento de consumo.
+3. Comparar el evento con firmas de consumo conocidas, previamente registradas por el usuario.
+4. Alertar y actuar ante una posible fuga, mediante un buzzer, LED y electroválvula.
+
+## Funcionamiento nocturno:
+El sistema puede trabajar dentro de una ventana de vigilancia configurable, inicialmente planteada entre las 00:00 y 05:00 horas.
+Durante una etapa inicial de calibración, el usuario registra consumos habituales, como:
+- Uso del inodoro
+- Uso del lavamanos
+- Uso de la ducha
+
+Para cada evento se registra principalmente su duración y caudal promedio.
+Durante la vigilancia, cada nuevo evento de flujo se compara con estas firmas de consumo.
+
+* Si coincide con un patrón conocido -> se registra como consumo habitual.
+* Si no coincide con los patrones conocidos y supera el tiempo establecido -> se clasifica como posible fuga.
+* Ante una posible fuga -> se registra el evento, se estima el volumen perdido, se activa la alerta y se puede accionar la electroválvula para interrumpir el suministro.
 
 ---
-
 ## 📸 Fotografía del Equipo  
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/SebastianLV9/FdD_Equipo_11/blob/main/Recursos/Im%C3%A1genes/Foto%20Grupal.jpeg" />
